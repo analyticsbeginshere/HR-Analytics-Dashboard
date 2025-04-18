@@ -38,8 +38,8 @@ This is a Power BI dashboard project where I have analyzed HR data to understand
 - Identified key factors to reduce attrition
 - Improve the hiring process
 - Improve employee experience
-- Made workforce more productive
-- Gained employee trust
+- Make workforce more productive
+- Gain employees trust
 
 ---
 
